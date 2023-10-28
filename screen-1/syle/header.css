@@ -1,0 +1,29 @@
+.header-wrapper{
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav{
+    display: flex;
+    gap: 48px;
+    align-items: center;
+    
+}
+.header-list{
+display: flex;
+gap: 32px;
+
+}
+.header-list li a{
+    color: black;
+}
+.button{
+    background:  #D2F65A;
+    padding: 16px;
+    text-transform: uppercase;
+}
+.logo img{
+    width: 146px;
+    height: 30px;
+}

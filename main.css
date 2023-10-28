@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@import url(/screen-1/syle/header.css);
+@import url(/screen-1/syle/section-1.css);
+@import url(/screen-1/syle/section-2.css);
+@import url(/screen-1/syle/section-3.css);
+@import url(/screen-1/syle/footer.css);
+
+@import url(work/work-section-1.css);
+@import url("reset.css");
+
+body{
+    font-family:"clash display" ;
+}
