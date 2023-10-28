@@ -6,7 +6,8 @@
 @import url(/screen-1/syle/section-3.css);
 @import url(/screen-1/syle/footer.css);
 
-@import url(work/work-section-1.css);
+@import url(/work/work.css);
+@import url(/work-single/work-single.css);
 @import url("reset.css");
 
 body{
