@@ -28,15 +28,7 @@
     letter-spacing: 1px;
 }
 
-.works {
-    margin-bottom: 96px;
 
-    display: flex;
-    gap: 16px;
-  justify-content:center; 
-  margin-top: 50px; 
-  padding-bottom: 100px; 
-}
 
 .work-card {
     display: flex;
@@ -47,6 +39,28 @@
 .work-img img {
     width: 900px;
     height: 900px;
+}
+.works {
+    margin-bottom: 96px;
+
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+
+}
+.work-img {
+    width: 900px;
+    height: 900px;
+}
+
+.work-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.work-img:hover { 
+    border: 8px solid #D2F65A; 
 }
 
 .work-text h4 {
