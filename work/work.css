@@ -1,6 +1,6 @@
 .title-text{
     display: flex;
-    padding: 64px 0px 96px 0px;
+    padding: 64px 0px 0px 0px;
     flex-direction: column;
     align-self: stretch;
 }
@@ -15,7 +15,7 @@ text-transform: uppercase;
     display: flex;
     gap: 16px;
   justify-content:center; 
-  margin-top: 50px; 
+  margin-top: 96px; 
   padding-bottom: 50px; 
 }
 .works-2 {
