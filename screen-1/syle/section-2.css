@@ -58,6 +58,11 @@
     flex-direction: column;
     gap: 32px;
 }
+.recroll{
+    display: none;
+
+}
+
 
 .skills-card {
     width: 752px;
